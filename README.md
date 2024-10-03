@@ -1,10 +1,7 @@
 # 💫 About Me:
 
-🔭 I’m currently working on:
-Upskilling Frontend development.
-
 👯 I’m looking to collaborate on:
-Fullstack projects specially Frontend
+Fullstack projects specially frontend
 
 💬 Ask me about:
 Java, SQL, JavaScript, React, and any general software development questions.
