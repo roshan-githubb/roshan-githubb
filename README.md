@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👯 I’m looking to collaborate on:
-Fullstack projects specially frontend
+Fullstack projects
 
 💬 Ask me about:
 Java, SQL, JavaScript, React, and any general software development questions.
